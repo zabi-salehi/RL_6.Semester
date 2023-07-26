@@ -3,7 +3,7 @@
 Due to hardware restrictions of my laptop, this project was developed on google colab. 
 
 ## Execution: 
-- Simply upload the notebook on a google colab account. If you want to review the code and see the results, simply scroll down the notebook. The progress of the agent over time has been documented using various visualizaitons including videos (displayed as .gifs) and performance plots such as rewards, lengths, average losses or average Qs over different episodes.
+Simply upload the notebook on a google colab account. If you want to review the code and see the results, simply scroll down the notebook. The progress of the agent over time has been documented using various visualizaitons including videos (displayed as .gifs) and performance plots such as rewards, lengths, average losses or average Qs over different episodes.
 
 
 ## Requirements
